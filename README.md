@@ -1,2 +1,2 @@
-# Logic-Algoritma
-Logic Algoritma
+# Algorithm Logic
+Algorithm Aogic
